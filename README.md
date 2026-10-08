@@ -2,7 +2,7 @@
 
 Простой Python-инструмент для прошивки микроконтроллеров **AT89C51RD2 / ED2** через UART (встроенный ISP bootloader).
 
-Работает на Linux, macOS и Windows. Не требует Java, Wine и устаревших утилит Atmel/Microchip.
+Работает на Linux,(с доработкой на  macOS и Windows). Не требует Java, Wine и устаревших утилит Atmel/Microchip.
 
 ## Возможности
 
