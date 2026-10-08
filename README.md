@@ -17,7 +17,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/USERNAME/at89c51rd2-isp.git
+git clone https://github.com/Vilckins/at89c51rd2-isp.git
 cd at89c51rd2-isp
 
 python3 -m venv .venv
